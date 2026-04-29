@@ -20,7 +20,7 @@ public class trabaprog {
 
         System.out.println("=====================================================");
         System.out.println(azul + "GUIA DE SEGURANÇA DIGITAL / SIMULAÇÃO DE CENÁRIOS" + reset);
-        System.out.print("Olá seja bem vindo(a) qual seu nome?\n-> ");
+        System.out.print("Seja bem vindo(a) qual seu nome?\n-> ");
         nome = in.nextLine();
         System.out.println("=====================================================");
     
