@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class trabaprog {
+public class APSProgramacao {
     // MÉTODO LINHA
     static void linha() {
         System.out.println("\n------------------------------");
